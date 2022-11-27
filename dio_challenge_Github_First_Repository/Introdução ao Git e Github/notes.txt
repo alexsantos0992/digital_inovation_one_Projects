@@ -1,0 +1,13 @@
+################################################
+#                 Useful links                 #
+################################################
+
+---------- My Github profile: https://github.com/alexsantos0992
+
+---------- Git download link: https://git-scm.com/downloads
+Git Bash is an extended terminal for optimizing the use of Git.
+
+---------- Github official site: https://github.com/
+GitHub is a source code and file hosting platform with version control using Git. It allows programmers,
+utilities or any user registered on the platform to contribute to private and/or Open Source projects
+from anywhere in the world.
